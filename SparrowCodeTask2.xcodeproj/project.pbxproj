@@ -11,6 +11,7 @@
 		E053A5A52ACC6E5E00EA7482 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E053A5A42ACC6E5E00EA7482 /* ContentView.swift */; };
 		E053A5A72ACC6E5F00EA7482 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E053A5A62ACC6E5F00EA7482 /* Assets.xcassets */; };
 		E053A5AA2ACC6E5F00EA7482 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E053A5A92ACC6E5F00EA7482 /* Preview Assets.xcassets */; };
+		E067C2A02ADAC63700984A26 /* SparrowVariant.swift in Sources */ = {isa = PBXBuildFile; fileRef = E067C29F2ADAC63700984A26 /* SparrowVariant.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		E053A5A42ACC6E5E00EA7482 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		E053A5A62ACC6E5F00EA7482 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E053A5A92ACC6E5F00EA7482 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		E067C29F2ADAC63700984A26 /* SparrowVariant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SparrowVariant.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				E053A5A22ACC6E5E00EA7482 /* SparrowCodeTask2App.swift */,
 				E053A5A42ACC6E5E00EA7482 /* ContentView.swift */,
+				E067C29F2ADAC63700984A26 /* SparrowVariant.swift */,
 				E053A5A62ACC6E5F00EA7482 /* Assets.xcassets */,
 				E053A5A82ACC6E5F00EA7482 /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E053A5A52ACC6E5E00EA7482 /* ContentView.swift in Sources */,
+				E067C2A02ADAC63700984A26 /* SparrowVariant.swift in Sources */,
 				E053A5A32ACC6E5E00EA7482 /* SparrowCodeTask2App.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
